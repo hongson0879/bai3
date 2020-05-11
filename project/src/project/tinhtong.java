@@ -6,7 +6,7 @@ public class tinhtong {
 		public static void main(String[] args) {
 			int a,b;
 			
-			Scanner sc = new Scanner (System.in);
+			Scanner sc = new Scanner (System.in); 
 			
 			System.out.print("Nhap gia tri a: ");
 			a = sc.nextInt();
